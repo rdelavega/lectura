@@ -1,0 +1,5 @@
+intro_quest,Cuestionario de prueba,0,null,null
+intro_area,Introducción para el área de prueba,0,Area de prueba,null
+intro_topic,Introducción al tópico,0,Area de prueba,Topico de prueba
+pregunta,Como te sientes el día de hoy,20,Area de prueba,Topico de prueba
+class,Integridad y salud,0,null,null
